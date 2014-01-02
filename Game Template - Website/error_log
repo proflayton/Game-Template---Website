@@ -1,0 +1,7 @@
+[02-Jan-2014 02:52:21 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 02:52:21 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
