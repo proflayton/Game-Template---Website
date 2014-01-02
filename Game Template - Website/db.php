@@ -1,8 +1,8 @@
 <?php
 	$host="localhost";
-	$database="layt6314";
-	$username="layt6314";
-	$password="mypass";
+	$database="db";
+	$username="un";
+	$password="password";
 	$usertable="ip_users";
 	$questtable="ip_quests";
 	$questsdonetable="ip_quests_done";
