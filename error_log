@@ -1,0 +1,113 @@
+[02-Jan-2014 02:52:21 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 02:52:21 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:24:00 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:24:00 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:24:00 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:24:29 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:24:29 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:24:29 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:25:53 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:53 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:53 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:25:55 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:55 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:55 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:25:56 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:56 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:56 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:25:58 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:58 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:25:58 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:26:30 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:30 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:30 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:26:31 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:31 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:31 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:26:32 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:32 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:33 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:26:39 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:39 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/index.php:2) in /home/brandon4/public_html/individual_project/index.php on line 3
+[02-Jan-2014 08:26:39 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(4): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:35:20 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(3): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:39:22 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(3): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:39:23 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(3): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:39:27 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'layt6314'@'eu7.host.org' (using password: YES)' in /home/brandon4/public_html/individual_project/db.php:15
+Stack trace:
+#0 /home/brandon4/public_html/individual_project/db.php(15): PDO->__construct('mysql:host=loca...', 'layt6314', 'mypass')
+#1 /home/brandon4/public_html/individual_project/index.php(3): include_once('/home/brandon4/...')
+#2 {main}
+  thrown in /home/brandon4/public_html/individual_project/db.php on line 15
+[02-Jan-2014 08:43:38 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/quests.php:40) in /home/brandon4/public_html/individual_project/navbar.php on line 4
+[02-Jan-2014 08:44:34 Europe/Moscow] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/brandon4/public_html/individual_project/barter.php:2) in /home/brandon4/public_html/individual_project/barter.php on line 2
