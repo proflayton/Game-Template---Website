@@ -1,8 +1,7 @@
 <?php 
 	if(session_id()=='')
 		session_start();
-?>
-<?php
+
 include_once "db.php";
 include_once "library.php";
 
@@ -27,9 +26,9 @@ include_once "session_check.php";
 	</head>
 	<body>
 		<div id="content">
-			<?php include "navbar.php" ?>
-			<?php
-				include_once "game.php";
+			<?php 
+			include "navbar.php" 
+			include_once "game.php";
 			?>
 		</div>
 	</body>
